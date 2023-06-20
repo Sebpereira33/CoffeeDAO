@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "noImplicitReturns": true,
+    "noUnusedLocals": true,
+    "outDir": "/home/rese/rese/DAPP/coffee-nft/frontend/cdao/functions/lib",
+    "sourceMap": true,
+    "strict": true,
+    "target": "es2017"
+  },
+  "compileOnSave": true,
+  "include": [
+    "/home/rese/rese/DAPP/coffee-nft/frontend/cdao/functions/src"
+  ]
+}
