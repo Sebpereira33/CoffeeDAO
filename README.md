@@ -3,7 +3,7 @@
 
 # Use the app
 1. Have a preprod wallet with at least 50 ada.
-2. Go to https://coffee-dao.web.app/
+2. Go to https://coffee-dao.web.app/ (we're making some changes, minting on preprod is paused)
 3. Click the "BUY NOW"
 4. Enter real or fake info *ZIP CODE needs to be an int
 5. Click the "Submit" button (frontend/cdao/lib/screens/orderFormScreen.dart)
